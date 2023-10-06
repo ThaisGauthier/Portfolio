@@ -1,0 +1,21 @@
+[
+    {
+        "id": "other-project-bunder",
+        "title": "Kickstarter campaign",
+        "year": "Sept 2022 - Sept 2023",
+        "tags": ["Surveying", "User Interviews", "Ideation", "Analysis", "Product Planning"],
+        "description": "Kickstarter is full of ambitious, innovative, and imaginative ideas that are brought to life through the direct support of others. Everything on Kickstarter must be a project with a clear goal, like making an album, a book, or a work of art. A project will eventually be completed, and something will be produced by it.",
+        "readMore": "https://dvic.devinci.fr/quickstarter/taystick",
+        "image": "/assets/other-projects/qs.webp",
+        "jpg": "/assets/other-projects/qs.jpeg"
+    },
+    {
+        "id": "other-project-nutricare",
+        "title": "Projet comming soon",
+        "tags": ["FUN", "COLOR", "LOVE"],
+        "description": "A future project is comming soon with Claire Lefez",
+        "readMore": "https://dvic.devinci.fr/member/claire-lefez",
+        "image": "/assets/other-projects/friends.webp",
+        "jpg": "/assets/other-projects/friends.jpg"
+    }
+]

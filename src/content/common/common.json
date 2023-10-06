@@ -1,0 +1,28 @@
+{
+    "name": "Thaïs Gauthier",
+    "logoType": {
+        "mobile": "HP",
+        "desktop": "Thaïs Gauthier"
+    },
+    "mainPicture": "/assets/HP.webp",
+    "mainPictureJPG": "/assets/HP.jpeg",
+    "cssVarPrefix": "hp",
+    "email": "thais.gauthier@edu.devinci.fr",
+    "linkedin": "https://www.linkedin.com/in/hrishikeshpaul/",
+    "github": "https://github.com/hrishikeshpaul",
+    "resume": "/assets/CV.pdf",
+    "socials": [
+        {
+            "type": "linkedin",
+            "link": "https://www.linkedin.com/feed/?trk=nav_back_to_linkedin"
+        },
+        {
+            "type": "github",
+            "link": "https://github.com/ThaisGauthier"
+        },
+        {
+            "type": "mail",
+            "link": "mailto:thais.gauthier@edu.devinci.fr"
+        }
+    ]
+}
