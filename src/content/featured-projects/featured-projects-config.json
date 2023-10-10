@@ -1,11 +1,11 @@
 [
     {
         "id": "featured-project-asctb-reporter",
-        "title": "BIOS project",
-        "year": "Sept 2023 - Dec 2023",
+        "title": "Projet BIOS",
+        "year": "Sept-Dec 2023",
         "location": "DVIC - Paris",
-        "tags": ["Inflated", "Organic", "Sea-urchin", "DIY"],
-        "description": "Bubbly Inflated Organic Structure, in collaboration with Claire Lefez.",
+        "tags": ["Gonflabilité", "Organique", "Oursin", "Fabrication"],
+        "description": "Bubbly Inflated Organic Structure, en collaboration avec Claire Lefez.",
         "readMore": "https://drive.google.com/drive/folders/1hEnNNl2LjudKKdfz3GSA345YsYQ97-E3",
         "image": "/assets/featured-projects/bios2.webp",
         "jpg": "/assets/featured-projects/bios2.png"
@@ -13,12 +13,12 @@
     {
         "id": "featured-project-scrapbook",
         "title": "HOUSE3D",
-        "year": "Sept 2022 - March 2023",
+        "year": "Sept 2022 - Mars 2023",
         "location": "DVIC - Paris",
-        "tags": ["3D printer","Cartesian","Open-source","Houses"],
+        "tags": ["imprimante 3D","Cartesienne","Open-source","Maisons"],
         "demo": "https://youtu.be/NJnXCaH9OP8?si=SGmsPcW5kkAIiGpz",
         "github": "https://github.com/philizer/HOUSE3D",
-        "description": "An open-source large-scale 3D printer, to help research on cementitious bio-materials.",
+        "description": "Une imprimante 3D open-source à grande échelle, pour aider la recherche sur les bio-matériaux cimentaires",
         "readMore": "https://dvic.devinci.fr/projects/HOUSE3D",
         "image": "/assets/featured-projects/3d2.webp",
         "jpg": "/assets/featured-projects/3d2.jpg"
@@ -26,10 +26,10 @@
     {
         "id": "featured-project-measure-ux",
         "location": "DVIC - Paris",
-        "title": "Cementitious Biomaterials for 3D printing",
-        "year": "Sept 2022 - March 2023",
-        "tags": ["Clay", "Sand", "Rice husk", "Extrusion"],
-        "description": "Using biosourced materials for 3D printing technology",
+        "title": "Matériaux Cémenteux pour impression 3D",
+        "year": "Sept 2022 - Mars 2023",
+        "tags": ["Argile", "Sable", "Coque de riz", "Extrusion"],
+        "description": "Utilisation de matériaux biosourcés pour l'impression 3D",
         "readMore": "https://dvic.devinci.fr/projects/materials-3D-printing",
         "image": "/assets/featured-projects/clay2.webp",
         "jpg": "/assets/featured-projects/clay2.jpeg"

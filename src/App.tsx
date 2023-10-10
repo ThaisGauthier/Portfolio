@@ -46,15 +46,15 @@ export const App: FC = () => {
                 <Box mt={{ base: "96px", md: NavbarHeight }}>
                     <Landing />
                     <Box id={WorkPageId}>
-                        <PageHeader label="Featured Projects" />
+                        <PageHeader label="Projets Principaux" />
                         <FeaturedProjects />
 
-                        <PageHeader id="page-other-projects" label="Other Projects" />
+                        <PageHeader id="page-other-projects" label="Autres Projets" />
                         <OtherProjects />
                     </Box>
 
                     <Box id={AboutPageId}>
-                        <PageHeader label="About Me" />
+                        <PageHeader label="Un peu sur moi" />
                         <About />
                     </Box>
                 </Box>

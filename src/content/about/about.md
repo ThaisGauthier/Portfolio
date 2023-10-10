@@ -1,5 +1,7 @@
-Hi there ✌️ nice to meet you ! I'm a Creative Technology Student at the De Vinci Innovation Center, [DVIC](https://dvic.devinci.fr/).
+Un peu de moi : 
 
-Ecrire un texte plus sympa sur moi !
-Pour mettre en italique : *italique*
-Pour mettre en gras : **gras**
+Je suis organisée, rigoureuse, enthousisate et innovante.
+
+Je suis trsè sportive, pratiquant l'équitation depuis plus de 15 ans, l'athlétisme, le tennis et la plongée sous-marine.
+
+...

@@ -31,7 +31,7 @@ export const ReadMore: FC<ReadMoreProps> = ({ readMore }) => {
             rightIcon={<ArrowRightIcon fontSize="16pt" />}
             onClick={() => open(readMore)}
         >
-            Read More
+            En Savoir Plus
         </Button>
     ) : null;
 };
@@ -69,7 +69,7 @@ export const LiveDemo: FC<LiveDemoProps> = ({ demo, display }) => {
             icon={<LinkIcon fontSize="14pt" />}
             onClick={() => open(demo)}
         >
-            Live Demo
+            Démo
         </Button>
     ) : null;
 };

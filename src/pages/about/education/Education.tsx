@@ -10,7 +10,7 @@ export const Education: FC = () => {
 
     return (
         <>
-            <ArticleTitle title="Education" />
+            <ArticleTitle title="Formation" />
 
             <br />
 

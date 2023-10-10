@@ -1,12 +1,17 @@
-Welcome 👋 I'm a Creative Technology Student at the De Vinci Innovation Center, [DVIC](https://dvic.devinci.fr/). I am in my second year Master in the Resilient Future Group.
+Bienvenue sur mon Porfolio !
 
-I am particularly interested in rethinking some technologies in order to make them more responsible. This leads to a review of the technologies by making them adaptable in a low-tech approach and using alternative materials, more responsible, with a strong determination to reduce the environmental footprint.
+Je suis étudiante en **Créative Technologie** au **De Vinci Innovation Center**, [DVIC](https://dvic.devinci.fr/). Je suis en dernière année de master dans le groupe d'Innovation "*Resilient Futures*".
 
-I'm currently working with:
+Je suis intéressée par le fait de repenser certaines technologies afin de les rendre plus responsables. 
+Cela conduit à revoir les technologies en les rendant adaptables dans une approche low-tech et en utilisant des matériaux plus responsables, avec une forte volonté de réduire l'empreinte environnementale.
 
--   Materials
+Je travaille actuellement sur :
+
+-   Matériaux
+-   Textiles
 -   Low-Tech
 -   Design
--   Fashion
--   Modelization
--   Computer science
+-   Modélisation
+-   Mode
+-   Informatique
+-   Développement Produit

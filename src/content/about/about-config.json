@@ -2,30 +2,30 @@
     "educations": [
         {
             "id": "edu-1",
-            "school": "Ecole d'Ingénieur Leonard de Vinci, La Défense",
-            "degree": "Master en Créative Technologie orienté Resilient Futures,",
+            "school": "Ecole d'Ingénieure Léonard de Vinci, La Défense",
+            "degree": "Master Creative Technology orienté Resilient Futures",
             "duration": "2019 - 2024",
             "content": [
-                "Recherche et Innocation",
-                "Développement de matériaux alternatifs et de technologies low tech"
+                "Recherche et Innovation",
+                "Dévelopement de matériaux alternatifs et de technologies low-tech"
             ]
         },
         {
             "id": "edu-2",
-            "school": "Université de Vic, Catalogne",
-            "degree": "Semestre d'Etudes à l'international",
+            "school": "Université de Vic, Catalogn",
+            "degree": "Semestre d'études à l'International",
             "duration": "Sept 2021 - Dec 2021",
             "content": [
-                "English courses",
-                "Numerical analysis",
-                "Fluid mechanics", 
-                "C# object-oriented programming"
+                "Cours en anglais",
+                "Analyse Numérique",
+                "Mécanique des fluides", 
+                "C# Programmation Orientée Objets"
             ]
         },
         {
             "id": "edu-3",
             "school": "Ecole Internationale Bilingue, Paris",
-            "degree": "Baccalauréat Scientifique",
+            "degree": "Baccalauréat Scientfique",
             "duration": "2016 - 2019",
             "content": [
                 "Mention Très Bien",
@@ -37,8 +37,8 @@
         {
             "id": "exp-1",
             "company": "Hermès",
-            "position": "Assistante Cheffe de Produit Chaussure",
-            "duration": "Jun 2020 - Jun 2021",
+            "position": "Assistante Développement Produit Chaussures",
+            "duration": "Avr-Aout 2023",
             "description": [
                 "Accompagnement au quotidien de l'équipe Développement dans les échanges avec les fabricants durant les phases de Développement et d'Industrialisation",
                 "Support à la gestion des prototypes, contrôle conformité, planning, prix",
@@ -67,26 +67,26 @@
     ],
     "skills": [
         {
-            "title": "Web",
-            "tools": ["React", "Angular 11", "Vue", "NodeJS", "Flask", "Redux", "NGXS", "HTML/CSS", "OAuth", "i18n"]
-        },
-        {
-            "title": "Databases",
-            "tools": ["MongoDB", "Redis", "MySQL", "Firebase"]
-        },
-        {
-            "title": "OS & Tools",
-            "tools": ["MacOS", "Linux", "Git", "Agile (Scrum)", "MVC", "Jenkins", "Heroku", "Docker", "Kubernetes"]
+            "title": "Langues",
+            "tools": ["Français","Anglais","Espagnol","Italien"]
         },
         {
             "title": "Design",
-            "tools": ["Photoshop","Premiere"]
+            "tools": ["Photoshop","Premiere Pro"]
+        },
+        {
+            "title": "Pack Office",
+            "tools": ["Word", "Power Point", "Excel"]
+        },
+        {
+            "title": "Langages infomatiques",
+            "tools": ["Python", "C#", "C++", "Java"]
         }
     ],
     "blog": [
         {
             "id": "blog-1",
-            "title": "DVIC Web Page",
+            "title": "DVIC Page Web",
             "link": "https://dvic.devinci.fr/member/thais-gauthier"
         }
     ]

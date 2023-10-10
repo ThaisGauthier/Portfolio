@@ -80,7 +80,7 @@ export const Expandable: FC<Props> = ({ expanded, id, idx, title, subTitle, date
                                 }
                             }}
                         >
-                            See more
+                            Lire plus
                         </Button>
                     )}
                 </Flex>
@@ -106,7 +106,7 @@ export const Expandable: FC<Props> = ({ expanded, id, idx, title, subTitle, date
                                 onChange(newExpanded);
                             }}
                         >
-                            See less
+                            Voir moins
                         </Button>
                     </Flex>
                 )}

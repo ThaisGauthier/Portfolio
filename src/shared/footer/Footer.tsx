@@ -19,14 +19,14 @@ const headerStyles = {
 export const Footer: FC = () => {
     return (
         <>
-            <PageHeader label="SAY HI" />
+            <PageHeader label="CONTACT" />
             <Flex pb="2" gap="3" overflow="hidden" alignItems="center">
                 <Heading {...headerStyles} onClick={onMailTo} fontSize="2xl">
                     {configs.common.email}
                 </Heading>
             </Flex>
             <Text>
-                If you want to know more about my experiences and journey, or just talk in general, get in touch! ✌️
+            Si vous voulez en savoir plus n'hésitez pas à me contacter !
             </Text>
             <Box pt="16">
                 <Socials delay={100} exclude={["mail"]} />
