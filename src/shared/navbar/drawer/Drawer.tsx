@@ -75,7 +75,7 @@ export const MenuDrawer: FC<Props> = ({ onSectionClick, currentPage, ...props })
                                 fontWeight="600"
                                 fontSize="2xl"
                             >
-                                Work
+                                Travaux
                             </Button>
                             <Button
                                 variant="link"
@@ -94,7 +94,7 @@ export const MenuDrawer: FC<Props> = ({ onSectionClick, currentPage, ...props })
                                 fontWeight="600"
                                 fontSize="2xl"
                             >
-                                About
+                                A Propos
                             </Button>
                             <Button
                                 variant="link"
@@ -105,7 +105,7 @@ export const MenuDrawer: FC<Props> = ({ onSectionClick, currentPage, ...props })
                                 fontWeight="600"
                                 fontSize="2xl"
                             >
-                                Resume //peut être changé
+                                CV
                             </Button>
                         </VStack>
                         <Flex justifyContent="center" mt="16">
