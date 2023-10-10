@@ -1,12 +1,12 @@
 {
     "name": "Thaïs Gauthier",
     "logoType": {
-        "mobile": "HP",
+        "mobile": "TG",
         "desktop": "Thaïs Gauthier"
     },
     "mainPicture": "/assets/HP.webp",
     "mainPictureJPG": "/assets/HP.jpeg",
-    "cssVarPrefix": "hp",
+    "cssVarPrefix": "tg",
     "email": "thais.gauthier@edu.devinci.fr",
     "linkedin": "https://www.linkedin.com/in/hrishikeshpaul/",
     "github": "https://github.com/hrishikeshpaul",
